@@ -6,8 +6,9 @@ public class Sample {
 	@Test
 	
 	private void Testmethod() {
-		// TODO Auto-generated method stub
-System.out.println("Testmethod1");
+System.out.println("Hello world");
+System.out.println("Welcome message");
+	
 	}
 
 }
